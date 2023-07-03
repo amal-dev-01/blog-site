@@ -1,0 +1,44 @@
+.form{
+  background-color: rgb(38, 1, 66);
+  color:white;
+  text-align: center;
+  padding: 5vh;
+ 
+}
+input{
+  border: 25px;
+    height: 40px;
+    width: 50vh;
+    border-radius: 5px;
+}
+textarea{
+  border: 25px;
+    height: 100px;
+    width: 50vh;
+    border-radius: 5px;
+}
+.sucess{
+  background-color: rgb(34, 104, 34);
+  height: 5vh;
+    width: 10vh;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+}
+.ld1{
+  background-color: rgb(29, 183, 225);
+  
+}
+
+.c1{
+  background-color: rgb(8, 105, 105);
+  color: white;
+}
+.btnb{
+  background-color: rgb(228, 11, 26);
+  height: 5vh;
+    width: 10vh;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+}
